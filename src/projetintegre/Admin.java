@@ -13,7 +13,7 @@ public class Admin extends JFrame {
 	private JPanel contentPane;
 
 	/**
-	 * Launch the applkjhnoijklllication.
+	 * Launch.
 	 */
 	
 	public static void main(String[] args) {
